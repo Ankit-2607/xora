@@ -19,7 +19,8 @@ It showcases my projects, skills, and contact information.**
 -Gsap
 
 ## Screenshort
-![Uploading Portfolio.png…]()
+![Uploading Portfolio.png…](Screenshort.png)
+
 
 ## Author
 **Ankit Kumar**
